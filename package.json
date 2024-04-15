@@ -1,0 +1,20 @@
+{
+  "name": "donvito121",
+  "version": "1.0.0", 
+  "description": "Build a markdown parser that converts markdown syntax into HTML. This can be particularly useful for developers building blogging platforms or content management systems.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "",
+  "license": "MIT"
+}
